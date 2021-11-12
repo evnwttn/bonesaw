@@ -1,0 +1,51 @@
+/* 
+COLOUR PALETTE 
+
+#D2D7D9 - LIGHT BLUE
+#637371 - MUTED BLUE
+#5D7373 - RICH BLUE
+#252625 - DARK BLUE
+#0D0D0D - OFF BLACK
+#A67468 - LIGHT ORANGE
+#BF5F56 - RICH ORANGE
+#BF5D54 - RICH(ER) ORANGE
+
+*/
+
+html {
+  background-image: linear-gradient(#252625, #bf5f56);
+  height: 100%;
+  margin: 0;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+#top-icons {
+  position: absolute;
+  right: 5%;
+}
+
+#box-1 {
+  top: 16%;
+  left: 20%;
+  width: 72%;
+  height: 47%;
+  background-image: linear-gradient(#0d0d0d, transparent);
+  position: absolute;
+}
+
+#url {
+  outline: none;
+  font-size: 2.5em;
+  width: 33%;
+  height: 15%;
+  position: absolute;
+  top: 20%;
+  left: 7.5%;
+  color: #d2d7d9;
+  background: transparent;
+  border-bottom: 5px solid #5d7373;
+  border-left: transparent;
+  border-right: 4px solid #637371;
+  border-top: transparent;
+}
