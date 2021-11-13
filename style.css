@@ -26,6 +26,10 @@ html {
   top: 2.65%;
 }
 
+#top-icons * {
+  margin-left: 1em;
+}
+
 #box-1 {
   top: 16%;
   left: 20%;
